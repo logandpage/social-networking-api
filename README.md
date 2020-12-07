@@ -8,4 +8,11 @@ This is a working api for social networking applications. It has been tested usi
 -express
 -mongoose
 
+## Video
+https://drive.google.com/file/d/1l4ASUNwpUkefm9vh9FKtOrgtgS49pmwm/view
+
+## Author
+Logan Page (logandpage)
+
 ## Link
+https://github.com/logandpage/social-networking-api
